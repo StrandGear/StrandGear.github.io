@@ -125,6 +125,7 @@ footer{
 	margin-bottom: 13px;
 }
 .footer-button{
+	text-decoration: none;
 	display: inline-block;
 	border: 1px solid #fff;
 	background-color: #transparent;
